@@ -18,7 +18,7 @@ This is my original animation for the [mcpro24fps app](https://www.mcpro24fps.co
 
 ### Release Package Download
 
-* Download link: <https://mega.nz/folder/g0cQVb4K#Os_bBSosUjBAUYdzB84icQ>
+* Download link: <https://yadi.sk/d/1G6F2j9Tvxz38w>
 
 The Release Package has the same animation in different formats. The full package is huge (20GB) because it includes EXR files (16GB). But you don't usually need them. The PNG files are enough in most cases. They are much smaller and easier to work with.
 
